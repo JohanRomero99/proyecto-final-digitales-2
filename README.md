@@ -12,6 +12,8 @@ hardware requirements
 SOFTWARE REQUIREMENTS
 * MPLAB X
 * COMPILADOR XC8
+vaya a la pagina  https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide descargue le mplab xide y luego busque el compliador xc8
+
 
 how to run:
 
