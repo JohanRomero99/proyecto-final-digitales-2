@@ -12,3 +12,19 @@ hardware requirements
 SOFTWARE REQUIREMENTS
 * MPLAB X
 * COMPILADOR XC8
+
+how to run:
+
+connect breadboard source to pc
+press the source button
+place the cap on the tank which contains the last probe
+verify that the ultra sound is well calibrated
+remove the tank cap and proceed to fill it
+then look at the led in the pic which indicates that the tank is full
+
+Autores:
+
+universidad de Ibague - ingenieria electronica proyecto final digitales 2
+
+Cristian Acosta 2420172023
+Johan Romero 2420181055
