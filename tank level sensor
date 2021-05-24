@@ -3,3 +3,8 @@ To make its correct development possible, it is necessary to have a series of el
 Libraries of other pic were searched since with the present work it is a very recent pic and makes the resolution of this project more complicated. A number of records were modified.
 Finally, it is expected that the ultrasound sensor calculates a prudent distance of 2cm to activate the led, which represents a buzzer and this generates an alarm notifying the user that it has already been filled.
 video: https://www.youtube.com/watch?v=yGglW_63IBQ
+hardware requirements
+* PIF16F15244 CURIOSITY NANO
+*SENSOR ULTRASONICO HC SR04
+*PANTALLA LCD Y CONVERTIDOR I2C
+*TANQUE
